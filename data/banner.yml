@@ -1,10 +1,12 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Dogs2Improve"
+style: "style3 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Dogs 2 Improve"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  <span class="image-caption">Kennis en Coaching</span>
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Het mooiste aan dit werk vind ik om inzichtelijk te maken voor jou als eigenaar waarom je hond doet wat hij doet. Ik wil jou leren jouw hond te begrijpen, hem te lezen en coach jou om succesvol te zijn in de jachthondensport. Uiteraard is het ook van belang maar dat jouw hond thuis ook jouw maatje is en goed meedraait in het gezinsleven. 
+  Na vele eigenaren geholpen te hebben, vind ik het prachtig om te zien hoe zij genieten als hun hond een oefening goed uitvoert of als de hond progressie vertoont in een situatie wat voorheen problematisch was.
+  <p>Dit alles doe ik met de nodige portie rust, vrolijkheid, duidelijkheid en humor!</p>
 button:
   label : "Get Started"
   link : "#first"

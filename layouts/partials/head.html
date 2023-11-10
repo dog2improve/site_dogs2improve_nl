@@ -28,5 +28,10 @@
 	{{ range .Site.Params.asset.fontawesome_css -}}
 		<link rel="stylesheet" href="{{ . | absURL }}">
 	{{- end }}
+	
+	<!-- Custom CSS -->
+	{{ range .Site.Params.asset.custom_css -}}
+		<link rel="stylesheet" href="{{ . | absURL }}">
+	{{- end }}
 
 </head>

@@ -42,5 +42,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   linkedin = "https://linkedin.com"
 
 [Params.asset]
+  custom_css = ["css/custom.css"]
   fontawesome_css = ["css/fontawesome-all.min.css"]
   fontawesome_js = ["js/fontawesome-all.min.js"]
